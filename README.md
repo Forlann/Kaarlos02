@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML5, CSS3, Git, Drupal, Wordpress(college starts in Agust)
 - 💞️ I’m looking to collaborate on my development as a Dev
 - 💼 I’m currently working as a Web Developer in a callcenter
-- 📫 How to reach me: just mail me in karlos2.forlan@gmail.com
+- 📫 My e-mail: karlos2.forlan@gmail.com
 
 <!---
 Kaarlos02/Kaarlos02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
